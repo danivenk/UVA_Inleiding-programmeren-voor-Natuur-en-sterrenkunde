@@ -1,5 +1,5 @@
 # UVA_Minor-Programming_Programming-1
-Exercises for the Inleiding programmeren voor Natuur- en sterrenkunde course (2017)
+Exercises for the Inleiding programmeren voor Natuur- en sterrenkunde course (2017)<br />
 Warning this code is for python 2.x
 
 for module 1 functions couldn't be used but a more efficient way of finding primes was found which was also added to the module.
